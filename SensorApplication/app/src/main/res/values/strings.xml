@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sensor Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sensors">Sensors</string>
+    <string name="get_data">Start recording temperature sensor data</string>
+    <string name="stop_recording_data">Stop recording temperature sensor data</string>
+    <string name="temp_data">Ambient temperature sensor data</string>
+    <string name="saved_to_file">Saved data to temperature.csv</string>
+    <string name="stop_recording_send_to_sb">Stop recording and send data to </string>
+    <string name="send_sensor_data_to_firebase">Send sensor data to firebase</string>
+    <string name="get_sound_level">Get sound level data</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+</resources>
